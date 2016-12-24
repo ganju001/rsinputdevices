@@ -84,6 +84,12 @@
     <!-- Russian keyboard layout label. [CHAR LIMIT=35] -->
     <string name="keyboard_layout_russian_label">Russian</string>
 
+
+    <!-- Russian Phonetic (MeLe F10Pro) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_russian_phonetic_melef10pro_label">Russian Phonetic (MeLe F10Pro)</string>
+
+
+
     <!-- Russian (Mac style) keyboard layout label. [CHAR LIMIT=35] -->
     <string name="keyboard_layout_russian_mac_label">Russian, Mac style</string>
 

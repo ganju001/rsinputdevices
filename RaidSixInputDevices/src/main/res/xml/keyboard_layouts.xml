@@ -110,6 +110,10 @@
         android:label="@string/keyboard_layout_russian_mac_label"
         android:keyboardLayout="@raw/keyboard_layout_russian_mac" />
 
+    <keyboard-layout android:name="keyboard_layout_russian_phonetic_melef10pro"
+        android:label="@string/keyboard_layout_russian_phonetic_melef10pro_label"
+        android:keyboardLayout="@raw/keyboard_layout_russian_phonetic_melef10pro" />
+
     <keyboard-layout android:name="keyboard_layout_slovak"
         android:label="@string/keyboard_layout_slovak"
         android:keyboardLayout="@raw/keyboard_layout_slovak" />

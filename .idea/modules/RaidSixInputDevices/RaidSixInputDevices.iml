@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":RaidSixInputDevices" external.linked.project.path="$MODULE_DIR$/../../../RaidSixInputDevices" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../../RaidSixInputDevices/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../../RaidSixInputDevices/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../../RaidSixInputDevices/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../../RaidSixInputDevices/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../../RaidSixInputDevices/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../../RaidSixInputDevices/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../../RaidSixInputDevices/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../RaidSixInputDevices">
+      <sourceFolder url="file://$MODULE_DIR$/../../../RaidSixInputDevices/gen" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../RaidSixInputDevices/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../RaidSixInputDevices/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

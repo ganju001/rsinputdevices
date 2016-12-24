@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RaidSixInputDevices.iml" filepath="$PROJECT_DIR$/RaidSixInputDevices.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RaidSixInputDevices/RaidSixInputDevices-RaidSixInputDevices.iml" filepath="$PROJECT_DIR$/RaidSixInputDevices/RaidSixInputDevices-RaidSixInputDevices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RaidSixInputDevices/RaidSixInputDevices.iml" filepath="$PROJECT_DIR$/.idea/modules/RaidSixInputDevices/RaidSixInputDevices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rsinputdevices.iml" filepath="$PROJECT_DIR$/.idea/modules/rsinputdevices.iml" />
     </modules>
   </component>
 </project>
-
